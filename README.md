@@ -1,5 +1,5 @@
 [![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
-## 🧡 Hi, my name is Eduardo Estevão!
+## 💚 Hi, my name is Eduardo Estevão!
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQxa2hydnhub29xNTlkY3NjNG52aHdvajBsbjE1dHRjdGxodjFwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fedryX7dMGMe6lgqDm/giphy.gif"  />
 <div align="left">
   
@@ -27,7 +27,6 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=py" alt="Python"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=js" alt="Javascript"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=ts" alt="Typescript"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=react" alt="React"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/></code>
